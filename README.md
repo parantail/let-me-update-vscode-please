@@ -14,9 +14,7 @@ Downloading:   0%
 ```
 
 실제로 이 파일은 아래 링크에서 다운로드 되는데요,
-```
-https://update.code.visualstudio.com/commit:1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/server-linux-x64/stable
-```
+> https://update.code.visualstudio.com/commit:1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/server-linux-x64/stable
 
 직접 받아보시면 역시나 원활하지 않음을 알 수 있습니다.
 원인을 추정해보건데, 아마도 visualstudio.com이 제공하는 CDN이 한국까지 원활하게 닿지 않는 것 같습니다. 특히 업데이트 배포 초기에 말이죠..
@@ -41,7 +39,7 @@ https://update.code.visualstudio.com/commit:1ad8d514439d5077d2b0b7ee64d2ce82a930
 \\wsl$\Ubuntu\home\YOUR_USER_NAME\.vscode-server\bin
 ```
 
-아래 커맨드로 압축을 풀어줍니다.
+WSL2 환경에서 해당 디렉토리로 가서 아래 커맨드로 압축을 풀어줍니다.
 
 ```
 tar -xvf downloaded.tar.gz
