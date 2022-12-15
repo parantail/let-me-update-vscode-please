@@ -54,7 +54,7 @@ mv vscode-server-linux-x64 1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a
 끝!
 
 ```
-vscode .
+code .
 ```
 
 으로 Visual Studio Code 가 열리는 걸 확인할 수 있습니다.
