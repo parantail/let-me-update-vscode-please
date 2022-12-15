@@ -20,6 +20,9 @@ Downloading:   0%
 원인을 추정해보건데, 아마도 visualstudio.com이 제공하는 CDN이 한국까지 원활하게 닿지 않는 것 같습니다. 특히 업데이트 배포 초기에 말이죠..
 
 저 파일을 어떻게든 다운로드 받으면 일단 문제는 해결할 수 있는데, VPN, Cloud등 파일 다운로드가 원활한 (한국이 아닌) 곳에서 다운로드 후 옮겨오는 방법을 생각해 볼 수 있겠습니다.
+
+가장 쉬울 것 같은 'Save to Google Drive' Chrome Extension은 용량 제한 때문에 사용할 수 없고요..
+
 무료로 손쉽게 사용할 수 있는 방법 중에 
 
 > https://www.multcloud.com/
